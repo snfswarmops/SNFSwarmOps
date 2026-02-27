@@ -59,7 +59,12 @@ ninja.data = [{
             },},{id: "news-the-call-for-the-second-edition-of-the-uav-testing-competition-is-open-now",
           title: 'The call for the Second edition of the UAV Testing Competition is open...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-swarmops-snsf-219732",
+          title: 'SwarmOps (SNSF 219732)',
+          description: "Human-sensing based MLOps for Collaborative Cyber-Physical Systems",
+          section: "Projects",handler: () => {
+              window.location.href = "/SNFSwarmOps/projects/swarmops.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

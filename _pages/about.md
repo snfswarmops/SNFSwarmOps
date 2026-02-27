@@ -1,3 +1,8 @@
+---
+layout: about
+title: about
+permalink: /
+---
 SwarmOps is an SNSF-funded project on AI-enabled Cyber-Physical Systems (AI-CPSs), focusing on **human-sensing based MLOps** to support **collaborative cyber-physical systems**.
 
 **Quick facts**

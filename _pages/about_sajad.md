@@ -1,0 +1,1 @@
+[**Sajad Khatiri**](https://skhatiri.github.io) is a Ph.D. student in Informatics at USI-Lugano and a Research Assistant at University of Bern. My main research interests are machine learning applications in software engineering. 

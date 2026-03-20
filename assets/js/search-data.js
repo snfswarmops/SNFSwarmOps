@@ -48,7 +48,17 @@ ninja.data = [{
           section: "News",},{id: "news-swarmops-snsf-219732-has-started-project-funding-duration-2025-2029",
           title: 'SwarmOps (SNSF 219732) has started (Project funding, duration 2025–2029).',
           description: "",
-          section: "News",},{id: "news-swarmops-project-officially-started",
+          section: "News",},{id: "news-swarmops-project-accepted-by-snsf",
+          title: 'SwarmOps project accepted by SNSF',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/SNFSwarmOps/news/2025-12-01-project-accepted.html";
+            },},{id: "news-participation-in-icst-amp-sbft-uav-testing-competitions",
+          title: 'Participation in ICST &amp;amp; SBFT UAV Testing Competitions',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/SNFSwarmOps/news/2026-03-15-competitions.html";
+            },},{id: "news-swarmops-project-officially-started",
           title: 'SwarmOps project officially started',
           description: "",
           section: "News",handler: () => {

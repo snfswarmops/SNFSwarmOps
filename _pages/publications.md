@@ -11,10 +11,10 @@ nav_order: 4
 
 ### 2026 (Under Preparation)
 - **SBFT Tool Competition – UAV Testing Track**  
-  *S. Khatiri, A. Javadi, E. Uysal, A. Prakash, P. Saurabh, D. Humeniuk, A. Babikian, S. Panichella*
+  *E. Uysal, A. Javadi, S. Khatiri, A. Prakash, P. Saurabh, D. Humeniuk, A. Babikian, S. Panichella*
 
 - **ICST Tool Competition – UAV Testing Track**  
-  *S. Khatiri, A. Javadi, E. Uysal, A. Prakash, P. Saurabh, D. Humeniuk, A. Babikian, S. Panichella*
+  *E. Uysal, A. Javadi, S. Khatiri, A. Prakash, P. Saurabh, D. Humeniuk, A. Babikian, S. Panichella*
 
 ### 2025
 - **TGen-UQ at ICST 2025 Tool Competition – UAV Testing Track**  

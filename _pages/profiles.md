@@ -7,22 +7,22 @@ nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: sebastiano.jpg
     content: about_sebastiano.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
     more_info: >
       <p>Sebastiano Panichella</p>
       <p>spanichella@gmail.com</p>
+
   - align: left
     image: sajad.jpg
     content: about_sajad.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
     more_info: >
       <p>Sajad Khatiri</p>
       <p>s.khatiri@gmail.com</p>
+
   - align: right
     image: ali.jpg
     content: about_ali.md
@@ -30,4 +30,43 @@ profiles:
     more_info: >
       <p>Ali Javadi</p>
       <p>ali.javadi@unibe.ch</p>
+
+  # =========================
+  # Additional Team Members
+  # =========================
+
+  - align: left
+    image: placeholder.jpg
+    content: about_prakash.md
+    image_circular: false
+    more_info: >
+      <p>Prakash Aryan</p>
+
+  - align: right
+    image: placeholder.jpg
+    content: about_christian.md
+    image_circular: false
+    more_info: >
+      <p>Christian Birchler</p>
+
+  - align: left
+    image: placeholder.jpg
+    content: about_sandro.md
+    image_circular: false
+    more_info: >
+      <p>Sandro Hernández Goicochea</p>
+
+  - align: right
+    image: placeholder.jpg
+    content: about_sarah.md
+    image_circular: false
+    more_info: >
+      <p>Sarah Meyer</p>
+
+  - align: left
+    image: placeholder.jpg
+    content: about_jonas.md
+    image_circular: false
+    more_info: >
+      <p>Jonas Spieler</p>
 ---

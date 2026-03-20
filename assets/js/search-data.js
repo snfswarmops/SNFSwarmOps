@@ -48,7 +48,12 @@ ninja.data = [{
           section: "News",},{id: "news-swarmops-snsf-219732-has-started-project-funding-duration-2025-2029",
           title: 'SwarmOps (SNSF 219732) has started (Project funding, duration 2025–2029).',
           description: "",
-          section: "News",},{id: "projects-swarmops-snsf-219732",
+          section: "News",},{id: "news-swarmops-project-officially-started",
+          title: 'SwarmOps project officially started',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/SNFSwarmOps/news/2026-04-01-project-started.html";
+            },},{id: "projects-swarmops-snsf-219732",
           title: 'SwarmOps (SNSF 219732)',
           description: "Human-sensing based MLOps for Collaborative Cyber-Physical Systems",
           section: "Projects",handler: () => {

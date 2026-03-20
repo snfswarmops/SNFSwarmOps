@@ -23,4 +23,11 @@ profiles:
     more_info: >
       <p>Sajad Khatiri</p>
       <p>s.khatiri@gmail.com</p>
+  - align: right
+    image: ali.jpg
+    content: about_ali.md
+    image_circular: false
+    more_info: >
+      <p>Ali Javadi</p>
+      <p>ali.javadi@unibe.ch</p>
 ---

@@ -53,6 +53,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/SNFSwarmOps/news/2025-12-01-project-accepted.html";
+            },},{id: "news-new-team-members-joined-swarmops",
+          title: 'New team members joined SwarmOps',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/SNFSwarmOps/news/2026-02-01-team-expanded.html";
             },},{id: "news-participation-in-icst-amp-sbft-uav-testing-competitions",
           title: 'Participation in ICST &amp;amp; SBFT UAV Testing Competitions',
           description: "",

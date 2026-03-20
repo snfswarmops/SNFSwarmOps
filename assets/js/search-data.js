@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/SNFSwarmOps/";
     },
-  },{id: "nav-project",
-          title: "project",
-          description: "Project details and workpackages",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/SNFSwarmOps/project/";
-          },
-        },{id: "nav-impact",
+  },{id: "nav-impact",
           title: "impact",
           description: "Industrial and Academicts impacts of the Project",
           section: "Navigation",

@@ -36,35 +36,35 @@ profiles:
   # =========================
 
   - align: left
-    image: placeholder.jpg
+    image: placeholder.png
     content: about_prakash.md
     image_circular: false
     more_info: >
       <p>Prakash Aryan</p>
 
   - align: right
-    image: placeholder.jpg
+    image: placeholder.png
     content: about_christian.md
     image_circular: false
     more_info: >
       <p>Christian Birchler</p>
 
   - align: left
-    image: placeholder.jpg
+    image: placeholder.png
     content: about_sandro.md
     image_circular: false
     more_info: >
       <p>Sandro Hernández Goicochea</p>
 
   - align: right
-    image: placeholder.jpg
+    image: placeholder.png
     content: about_sarah.md
     image_circular: false
     more_info: >
       <p>Sarah Meyer</p>
 
   - align: left
-    image: placeholder.jpg
+    image: placeholder.png
     content: about_jonas.md
     image_circular: false
     more_info: >

@@ -29,7 +29,7 @@ profiles:
     image_circular: false
     more_info: >
       <p>Ali Javadi</p>
-      <p>ali.javadi@unibe.ch</p>
+      <p>ali.javadi.ir.68@gmail.com</p>
 
   # =========================
   # Additional Team Members
